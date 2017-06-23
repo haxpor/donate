@@ -12,11 +12,11 @@ If those things help you, please consider support in any amount you can.
 
 * Donate via WeChat
 
-    ![wechat pay qrcode scan](https://github.com/haxpor/cigagamejam-2017/blob/master/wasin-wechat-pay.jpg)
+    ![wechat pay qrcode scan](https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg)
 
 * Donate via Alipay
 
-    ![alipay pay qrcode scan](https://github.com/haxpor/cigagamejam-2017/blob/master/wasin-alipay-pay.jpg)
+    ![alipay pay qrcode scan](https://github.com/haxpor/donate/blob/master/wasin-alipay-pay.jpg)
 
 # Contact
 
