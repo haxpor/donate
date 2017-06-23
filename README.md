@@ -20,4 +20,5 @@ If those things help you, please consider support in any amount you can.
 
 # Contact
 
-In any case, you can contact me via Twitter [@haxpor](https://twitter.com/haxpor), or WeChat ID: haxpor. Thank you for your support.
+In any case, you can contact me via Twitter [@haxpor](https://twitter.com/haxpor), or WeChat ID: haxpor.  
+Thank you for your support.
