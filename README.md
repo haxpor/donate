@@ -12,11 +12,11 @@ If those things help you, please consider support in any amount you can.
 
 * Donate via WeChat
 
-    ![wechat pay qrcode scan](https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg)
+    <img alt="wechat pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg" width="128px">
 
 * Donate via Alipay
 
-    ![alipay pay qrcode scan](https://github.com/haxpor/donate/blob/master/wasin-alipay-pay.jpg)
+    <img alt="alipay pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-alipay-pay.jpg" width="128px">
 
 # Contact
 
