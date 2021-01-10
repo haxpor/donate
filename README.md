@@ -14,9 +14,9 @@ If those things help you, please consider support in any amount you can.
 
 * [Donate via paypal](https://www.paypal.me/haxpor)
 
-* Donate via WeChat
+* Donate via direct bank transfer (Suitable for SEPA transfer. Preferred if you transfered from within Europe.)
 
-    <img alt="wechat pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg" width="256px">
+	**IBAN**: `DE75100110012624861726`
 
 * Donate via direct bank transfer
 
@@ -24,6 +24,10 @@ If those things help you, please consider support in any amount you can.
     **Account Owner Name**: WASIN THONKAEW  
     **Account Number**: 614-2-28896-4  
     **Bank Address**: KasikornBank Wongsakorn Market Branch, 48/185-186, Moo 1, Sai Mai Road, SaiMai, Bangkok 10220, Thailand
+
+* Donate via WeChat
+
+    <img alt="wechat pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg" width="256px">
 
 # Contact
 
