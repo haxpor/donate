@@ -12,20 +12,24 @@ If those things help you, please consider support in any amount you can.
 
 	<img alt="bitcoin qrcode image for wasin thonkaew" src="https://github.com/haxpor/donate/blob/master/wasin-bitcoin-qrscan-image.jpg" width="256px">
 
-* [Donate via paypal](https://www.paypal.me/haxpor)
+* [Paypal](https://www.paypal.me/haxpor)
 
-* Donate via direct bank transfer (Suitable for SEPA transfer. Preferred if you transfered from within Europe.)
+* Direct bank transfer (Suitable for SEPA transfer. Preferred if you transfered from within Europe.)
 
 	**IBAN**: `DE75100110012624861726`
 
-* Donate via direct bank transfer
+* Direct bank transfer
 
     **SWIFT code**: KASITHBK  
     **Account Owner Name**: WASIN THONKAEW  
     **Account Number**: 614-2-28896-4  
     **Bank Address**: KasikornBank Wongsakorn Market Branch, 48/185-186, Moo 1, Sai Mai Road, SaiMai, Bangkok 10220, Thailand
 
-* Donate via WeChat
+* PromptPay (for Thai citizens)
+
+	<img alt="wasin thonkaew prompt pay qrscan image" src="https://github.com/haxpor/donate/blob/master/promptpay.jpg" width="256px">
+
+* WeChat Pay
 
     <img alt="wechat pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg" width="256px">
 
