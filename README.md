@@ -6,17 +6,17 @@ Currently I'm making indie game, prototypes, or tools in which I often contribut
 
 If those things help you, please consider support in any amount you can.
 
-# One-time Donation
+# Payment Options
+
+* Bitcoin: `3FzrN2prB5e2eq5EgGXvYTwic4NngjHPbJ` or from QRCode image below
+
+	<img alt="bitcoin qrcode image for wasin thonkaew" src="https://github.com/haxpor/donate/blob/master/wasin-bitcoin-qrscan-image.jpg" width="256px">
 
 * [Donate via paypal](https://www.paypal.me/haxpor)
 
 * Donate via WeChat
 
     <img alt="wechat pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-wechat-pay.jpg" width="256px">
-
-* Donate via Alipay
-
-    <img alt="alipay pay qrcode scan" src="https://github.com/haxpor/donate/blob/master/wasin-alipay-pay.jpg" width="256px">
 
 * Donate via direct bank transfer
 
